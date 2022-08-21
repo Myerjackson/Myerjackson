@@ -1,16 +1,20 @@
-### Hi there 👋
+## :books: Academic in Computer Science
+-Estácio de Sá, 1° P. 
+<div>
+ <h2>:mag:- I'm Looking for an Internship!</h2> <br/>
 
-<!--
-**Myerjackson/Myerjackson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<!--<img height ="170em" width="500em" src ="https://github-readme-stats.vercel.app/api?username=AlineSilv&theme=dracula&include_all_commits=true&count_private=true" />-->
+<img height ="170em" width ="450em" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineSilv&layout=compact&langs_count=7&theme=dracula" />
+</div>
+  
+ 
+ ## :love_letter: Contact:
+ <h4>:speech_balloon:-"I welcome feedback and suggestions too."</h4>
+ 
+ 
+<div> 
+<a href = "mailto:miguelpfp96@gmail.com"> <img src = "https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target = "_ blank"> </a>
+<a href="https://www.linkedin.com/in/miguel-de-paula-669273130/" target="_blank"> <img src ="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin& logoColor=white"target ="_ blank "> </a>
+ 
