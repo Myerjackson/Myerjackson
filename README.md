@@ -1,7 +1,8 @@
 ## :book: Academic in Computer Science
--Estácio de Sá, 1° P. 
+-Estácio de Sá, 1°p.
 <div>
  <h2>:mag:- I'm Looking for an Internship!</h2> <br/>
+ - Full Stack Developer.
 
 
 <div>
