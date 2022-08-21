@@ -1,4 +1,4 @@
-## :blush: Academic in Computer Science
+## :book: Academic in Computer Science
 -Estácio de Sá, 1° P. 
 <div>
  <h2>:mag:- I'm Looking for an Internship!</h2> <br/>
@@ -10,7 +10,7 @@
 </div>
   
  
- ## :speech_balloon: Contact:
+ ## :incoming_envelope: Contact:
  <h4>:speech_balloon:-"I welcome feedback and suggestions too."</h4>
  
  
